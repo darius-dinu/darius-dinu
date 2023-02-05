@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darius-dinu&label=Profile%20views&color=0e75b6&style=flat" alt="darius-dinu" /> </p>
 
-- 🌱 I’m currently learning **Android Studio development**
+- 🌱 I’m currently learning: **Android Studio development**
 
-- ⚡ Fun fact **Robots have been a concept since 400 BC.**
+- ⚡ Fun fact: **Robots have been a concept since 400 BC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
