@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! My name is Darius-Mihai Dinu</h1>
-<h3 align="center">A programming enthusiast | Member of FTC Robotics Team HOMOSAPIENS RO109</h3>
+<h3 align="center">A programming enthusiast | Student</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.giphy.com/media/rObNWJp4447WaVS9Gy/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darius-dinu&label=Profile%20views&color=0e75b6&style=flat" alt="darius-dinu" /> </p>
