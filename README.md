@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋! My name is Darius-Mihai Dinu</h1>
-<h3 align="center">A programming enthusiast | Student</h3>
+<h3 align="center">A programming enthusiast | "Bogdan Petriceicu Hasdeu" National College</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.giphy.com/media/rObNWJp4447WaVS9Gy/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darius-dinu&label=Profile%20views&color=0e75b6&style=flat" alt="darius-dinu" /> </p>
 
-- 🌱 I’m currently learning: **Android Studio development**
+- 🌱 I’m currently learning: **DevOps fundamentals**
 
-- ⚡ Fun fact: **Robots have been a concept since 400 BC.**
+- ⚡ Fun fact: **There is no good integration if you can't deliver it properly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
